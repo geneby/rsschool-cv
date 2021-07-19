@@ -42,6 +42,7 @@ e-mail: **eugene_dubrovsky@tut.by**
 
 ### Language skills
 
+- Belarusian *native*
 - Russian *native*
 - English *advanced*
 - Polish *elementary*
