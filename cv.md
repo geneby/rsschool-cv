@@ -42,3 +42,9 @@ e-mail **eugene_dubrovsky@tut.by**
 - Belarusian State University of Informatics and Radioelectronics
 *python classes*
 - self-education
+
+### Language skills
+
+- English *advanced*
+- Polish *elementary*
+- French *elementary*
