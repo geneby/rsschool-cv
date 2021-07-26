@@ -25,3 +25,17 @@
 .code {
   font-size: 0.8rem;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.github {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fefefe;
+  background-color: black;
+  padding: 0.5rem;
+}
