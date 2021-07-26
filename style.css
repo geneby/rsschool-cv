@@ -1,0 +1,27 @@
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #121212;
+  background: #fefefe;
+  width: 100%;
+  max-width: 1024px;
+}
+
+.picture {
+  width: 320px;
+}
+
+.link {
+  text-decoration: none;
+  color: black
+}
+
+.link:hover {
+  color: #666;
+}
+
+.code {
+  font-size: 0.8rem;
+}
